@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yokota/git/cpp/ws/sample_project/lib/hello.cpp
+hello.hpp
+/home/yokota/git/cpp/ws/sample_project/lib/hello.hpp
+iostream
+-
+
+/home/yokota/git/cpp/ws/sample_project/lib/hello.hpp
+

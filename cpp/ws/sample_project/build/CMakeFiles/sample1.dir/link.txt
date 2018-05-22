@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sample1.dir/src/sample1/sample1.cpp.o  -o sample1 -rdynamic libgreeting.so -Wl,-rpath,/home/yokota/git/cpp/ws/sample_project/build 

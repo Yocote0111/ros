@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/hello.hpp
+
+/home/yokota/git/cpp/ws/sample_project/src/sample1/sample1.cpp
+hello.hpp
+/home/yokota/git/cpp/ws/sample_project/src/sample1/hello.hpp
+
